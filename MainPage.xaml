@@ -9,6 +9,7 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid>
+        <Button Content="Hello World App!" Margin="200,225,0,0" VerticalAlignment="Top" Height="193" Width="354"/>
 
     </Grid>
 </Page>
